@@ -1,3 +1,4 @@
 # CoffeeMachineSimulator-Java
 A simple Coffee Machine Simulator. 
-##Project tasks and idea by JetBrains Academy.
+
+Project tasks and idea by JetBrains Academy.
